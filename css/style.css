@@ -47,13 +47,13 @@ body {
 }
 
 a {
-  color: #FF9000;
+  color: #909DE9;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
 }
 a:hover, a:active, a:focus {
-  color: #FF9000;
+  color: #909DE9;
   outline: none;
   text-decoration: none;
 }
@@ -71,17 +71,17 @@ h1, h2, h3, h4, h5, h6, figure {
 
 ::-webkit-selection {
   color: #fff;
-  background: #FF9000;
+  background: #909DE9;
 }
 
 ::-moz-selection {
   color: #fff;
-  background: #FF9000;
+  background: #909DE9;
 }
 
 ::selection {
   color: #fff;
-  background: #FF9000;
+  background: #909DE9;
 }
 
 #fh5co-header,
@@ -100,7 +100,7 @@ h1, h2, h3, h4, h5, h6, figure {
   bottom: 0;
   left: 0;
   right: 0;
-  background: rgba(255, 144, 0, 0.9);
+  background: rgb(144, 157, 233, 0.9);
 }
 #fh5co-header .display-t,
 .fh5co-cover .display-t {
@@ -222,7 +222,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 #fh5co-features {
-  background: #FF9000;
+  background: #909DE9;
 }
 #fh5co-features h2 {
   color: #fff;
@@ -257,7 +257,7 @@ h1, h2, h3, h4, h5, h6, figure {
   display: table-cell;
   vertical-align: middle;
   height: 100px;
-  color: #FF9000 !important;
+  color: #909DE9 !important;
 }
 #fh5co-features .feature-left .feature-copy {
   width: 100%;
@@ -313,7 +313,7 @@ h1, h2, h3, h4, h5, h6, figure {
 
 .fh5co-bg-dark {
   background: #2F3C4F;
-  background: #FF9000;
+  background: #909DE9;
 }
 .fh5co-bg-dark .fh5co-heading h2 {
   color: #fff !important;
@@ -370,7 +370,7 @@ h1, h2, h3, h4, h5, h6, figure {
   display: inline-block;
   zoom: 1;
   *display: inline;
-  color: #FF9000;
+  color: #909DE9;
   padding-left: 10px;
   padding-right: 10px;
 }
@@ -407,7 +407,7 @@ h1, h2, h3, h4, h5, h6, figure {
   font-size: 20px;
 }
 #fh5co-about .fh5co-social-icons li a:hover {
-  background: #FF9000;
+  background: #909DE9;
 }
 
 .fh5co-heading {
@@ -537,7 +537,7 @@ h1, h2, h3, h4, h5, h6, figure {
   top: 40px;
   left: 50%;
   margin-left: -21px;
-  background-color: #FF9000;
+  background-color: #909DE9;
   z-index: 100;
   display: table;
   -webkit-border-radius: 50%;
@@ -639,53 +639,6 @@ h1, h2, h3, h4, h5, h6, figure {
     left: -14px;
     right: auto;
   }
-}
-.progress-wrap {
-  width: 100%;
-  float: left;
-  margin-bottom: 10px;
-}
-.progress-wrap h3 {
-  font-size: 16px;
-  display: block;
-  margin-bottom: 10px;
-  float: left;
-  width: 100%;
-}
-.progress-wrap h3 .name-left {
-  float: left;
-}
-.progress-wrap h3 .value-right {
-  float: right;
-}
-
-.progress {
-  width: 100%;
-  float: left;
-  height: 5px;
-  box-shadow: none;
-}
-
-.progress-bar {
-  background-color: #2F3C4F;
-  height: 5px;
-  display: block;
-  box-shadow: none;
-}
-.progress-bar.progress-bar-1 {
-  background-color: #2980b9 !important;
-}
-.progress-bar.progress-bar-2 {
-  background-color: #c0392b !important;
-}
-.progress-bar.progress-bar-3 {
-  background-color: #d35400 !important;
-}
-.progress-bar.progress-bar-4 {
-  background-color: #8e44ad !important;
-}
-.progress-bar.progress-bar-5 {
-  background-color: #27ae60 !important;
 }
 
 .chart {
@@ -801,7 +754,7 @@ h1, h2, h3, h4, h5, h6, figure {
 #fh5co-started .btn {
   height: 54px;
   border: none !important;
-  background: #FF9000;
+  background: #909DE9;
   color: #fff;
   font-size: 16px;
   text-transform: uppercase;
@@ -1112,9 +1065,9 @@ input[type="text"] {
 }
 
 .btn-primary {
-  background: #FF9000;
+  background: #909DE9;
   color: #fff;
-  border: 2px solid #FF9000;
+  border: 2px solid #909DE9;
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
   background: #ff9b1a !important;
@@ -1122,11 +1075,11 @@ input[type="text"] {
 }
 .btn-primary.btn-outline {
   background: transparent;
-  color: #FF9000;
-  border: 2px solid #FF9000;
+  color: #909DE9;
+  border: 2px solid #909DE9;
 }
 .btn-primary.btn-outline:hover, .btn-primary.btn-outline:focus, .btn-primary.btn-outline:active {
-  background: #FF9000;
+  background: #909DE9;
   color: #fff;
 }
 
@@ -1256,7 +1209,7 @@ input[type="text"] {
 .form-control:active, .form-control:focus {
   outline: none;
   box-shadow: none;
-  border-color: #FF9000;
+  border-color: #909DE9;
 }
 
 .row-pb-md {
